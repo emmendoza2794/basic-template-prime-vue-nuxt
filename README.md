@@ -2,6 +2,9 @@
 
 This project integrates a basic dashboard responsive template in the [Nuxtjs](https://nuxt.com/) framework based on [PrimeVue](https://primevue.org/) UI components
 
+
+**DEMO: https://basic-template-prime-vue-nuxt.web.app/**
+
 ![dashboard](https://raw.githubusercontent.com/emmendoza2794/basic-template-prime-vue-nuxt/main/images/dashboard.gif)
 ![dashboard](https://raw.githubusercontent.com/emmendoza2794/basic-template-prime-vue-nuxt/main/images/dashboard.png)
 ![responsive menu](https://raw.githubusercontent.com/emmendoza2794/basic-template-prime-vue-nuxt/main/images/menu-responsive.png)
